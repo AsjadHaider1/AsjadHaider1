@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>A Weather App (Axios)</b>
-  - [Fetches weater data](https://github.com/AsjadHaider1/WeatherApp)
+- <b>A Netflix 2.0 (React,TMDB,Firebase,Tailwind Css)</b>
+  - [Fetches movies list ](https://github.com/AsjadHaider1/Netflix-clone)
 - <b>NewsFactory (React, Bootstrap,Newsapp api)</b>
   - [Newsapp](https://github.com/AsjadHaider1/NewsFactory) <b><i>(Newsapp api)</b></i>
 - 
